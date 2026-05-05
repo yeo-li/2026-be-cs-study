@@ -2,20 +2,17 @@
 
 # 🌳 Rule
 
-### 진행 방식
-
-- 스터디는 매주 월~금 중 유동적으로 1회 진행한다.
-- 우테코 일과 시간 내에 모임을 진행한다.
 
 ### 학습 방식
 
 - 매주 공통 대주제를 선정한다.
 - 각자 대주제 내에서 소주제를 선택하여 학습한다.
-- 학습 내용은 Markdown(.md) 파일로 정리한다.
-- 매주 17시까지 PR을 생성한다.
+- 학습 내용은 Markdown 파일로 정리한다.
+- 발표 2시간 전까지 PR을 생성한다.
 
 ### 발표 및 토론
 
+- 발표는 매주 목요일 16시 ~ 18시에 진행한다.
 - 각자 질문을 준비한다.
 - 스터디 시간에는 발표 또는 토론 방식으로 진행한다. (추후 확정)
 - 학습한 내용은 다른 사람에게 가르치듯 설명하며 공유한다.
@@ -23,16 +20,17 @@
 
 ### 참여 규칙
 
-- 불참 5회 시 스터디에서 제외된다.
+- 불참 2회 시 두바이 아이스박스 사기
 
 
 # 👨‍💻 스터디원
 
 | 이름 | GitHub |
 | --- | --- |
-| 봉구스(박영규) | [@toctoce](https://github.com/toctoce) |
-| 라이(박다혜) | [@dhyepark](https://github.com/dhyepark) |
-| 티모(윤호준) | [@yoonhojoon](https://github.com/yoonhojoon) |
+| 봉구스 | [@toctoce](https://github.com/toctoce) |
+| 라이 | [@dhyepark](https://github.com/dhyepark) |
+| 티모 | [@yoonhojoon](https://github.com/yoonhojoon) |
+| 서여 | [@yeo-li](https://github.com/yeo-li) |
 
 
 # 학습 주제
@@ -81,7 +79,7 @@
 - 트랜잭션 격리 수준(Transaction Isolation Level)
 - 레디스(Redis)
 
-## 📌 Language
+## 📌 언어
 
 - Java
     - Java 컴파일 과정
@@ -109,7 +107,7 @@
     - Promise
     - ECMAScript6(=ES6)
 
-## 📌 Web
+## 📌 웹
 
 - HTTP Method
 - RESTFul API 란?
@@ -141,7 +139,7 @@
 
 ---
 
-## 📌 Algorithm
+## 📌 알고리즘
 
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
