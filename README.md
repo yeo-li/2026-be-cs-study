@@ -18,6 +18,13 @@
 - 학습한 내용은 다른 사람에게 가르치듯 설명하며 공유한다.
 - 당일 주제뿐만 아니라 이전 주차의 질문도 포함하여 복습 효과를 높인다.
 
+### 참고 자료
+
+- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)
+- [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote)
+
 ### 참여 규칙
 
 - 불참 2회 시 두바이 아이스박스 사기
