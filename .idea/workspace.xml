@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b839d0-522c-40fc-97ce-84925e3768df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/network/Blocking_&amp;Non-Blocking_IO_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/HTTP_&amp;_HTTPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/network/HTTP_&amp;_HTTPS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/HTTP_&amp;_HTTPS_1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,19 @@
       <recent name="$PROJECT_DIR$/network" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="2026-be-cs-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="2026-be-cs-study" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="02b839d0-522c-40fc-97ce-84925e3768df" name="Changes" comment="" />
@@ -78,7 +90,9 @@
       <workItem from="1778318435519" duration="1877000" />
       <workItem from="1778394160566" duration="1217000" />
       <workItem from="1778396944382" duration="42000" />
-      <workItem from="1778460205267" duration="49000" />
+      <workItem from="1778460205267" duration="188000" />
+      <workItem from="1778466260545" duration="49000" />
+      <workItem from="1778648051837" duration="8738000" />
     </task>
     <servers />
   </component>
