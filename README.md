@@ -2,7 +2,6 @@
 
 # 🌳 Rule
 
-
 ### 학습 방식
 
 - 매주 공통 대주제를 선정한다.
@@ -29,16 +28,14 @@
 
 - 불참 2회 시 두바이 아이스박스 사기
 
-
 # 👨‍💻 스터디원
 
-| 이름 | GitHub |
-| --- | --- |
-| 봉구스 | [@toctoce](https://github.com/toctoce) |
-| 라이 | [@dhyepark](https://github.com/dhyepark) |
-| 티모 | [@yoonhojoon](https://github.com/yoonhojoon) |
-| 서여 | [@yeo-li](https://github.com/yeo-li) |
-
+| 이름  | GitHub                                       |
+|-----|----------------------------------------------|
+| 봉구스 | [@toctoce](https://github.com/toctoce)       |
+| 라이  | [@dhyepark](https://github.com/dhyepark)     |
+| 티모  | [@yoonhojoon](https://github.com/yoonhojoon) |
+| 서여  | [@yeo-li](https://github.com/yeo-li)         |
 
 # 학습 주제
 
@@ -52,7 +49,11 @@
 - TCPvsUDP
 - 대칭키 & 공개키
 - HTTP & HTTPS
-- 로드 밸런싱(Load Balancing)
+- [로드 밸런싱(Load Balancing)](network/로드_밸런싱(Load_Balancing).md)
+  - [로드 밸런싱의 이점](network/로드_밸런싱의_이점.md)
+  - [로드 밸런싱의 유형](network/로드_밸런싱의_유형.md)
+  - [L4 로드 밸런싱](network/L4_로드_밸런싱.md)
+  - [L7 로드 밸런싱](network/L7_로드_밸런싱.md)
 - Blocking & Non-Blocking I/O
 
 ## 📌 운영체제
